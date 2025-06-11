@@ -1,7 +1,7 @@
 # BRAIN_WAVE_MATRIX_SOLUTION
 Data Science/ Data Analytics
 
-#**🎯 Task 1**
+# 🎯 Task 1
 
 # 🛒 Supermarket Sales Data Analysis
 
@@ -82,7 +82,7 @@ This project demonstrates a complete workflow for commercial sales analysis:
 
 ---
 
-#**🎯 Task 2**
+# 🎯 Task 2
 
 # 🌐 Social Media Sentiment Analysis  
 
@@ -92,7 +92,7 @@ This project aims to analyze public sentiment on Twitter using **Natural Languag
 
 ## 📁 Dataset  
 **Name**: Sentiment140  
-**Source**: [Kaggle - Sentiment140 Dataset] 
+**Source**: Kaggle - Sentiment140 Dataset
 **Description**: Contains 1.6 million labeled tweets with sentiment (0 = negative, 4 = positive).
 
 ## 🛠️ Technologies & Tools
