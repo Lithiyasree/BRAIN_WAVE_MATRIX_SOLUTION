@@ -1,14 +1,13 @@
 # BRAIN_WAVE_MATRIX_SOLUTION
 Data Science/ Data Analytics
 
-**🎯 Task 1**
+#**🎯 Task 1**
 
 # 🛒 Supermarket Sales Data Analysis
 
 ## 📌 Project Overview  
 An end-to-end **data preprocessing** and **exploratory data analysis (EDA)** of a commercial supermarket dataset using **Python** and **Jupyter Notebook**.
 
----
 
 ## 📌 Objective
 
@@ -18,7 +17,6 @@ To perform an in-depth **sales analysis** of a supermarket business using a stru
 - Descriptive statistics
 - Visual exploration
 
----
 
 ## 📊 Dataset
 
@@ -26,7 +24,6 @@ To perform an in-depth **sales analysis** of a supermarket business using a stru
 - **Source:** Public (CSV format)  
 - **Features:** `Invoice ID`, `Branch`, `City`, `Customer Type`, `Gender`, `Product Line`, `Total`, `Date`, `Time`, `Payment`, etc.
 
----
 
 ## 🔧 Tools & Libraries Used
 
@@ -38,7 +35,6 @@ To perform an in-depth **sales analysis** of a supermarket business using a stru
 - Matplotlib  
 - WordCloud  
 
----
 
 ## 📈 Analysis Covered
 
@@ -67,7 +63,6 @@ To perform an in-depth **sales analysis** of a supermarket business using a stru
 - What are the preferred **payment methods**?
 - What are the most **popular product categories**? *(via WordCloud)*
 
----
 
 ## 📌 Visual Insights
 
@@ -76,7 +71,6 @@ To perform an in-depth **sales analysis** of a supermarket business using a stru
 - 💳 Customer payment preferences
 - 🛍️ Product popularity using **WordCloud**
 
----
 
 ## 💡 Conclusion
 
@@ -87,22 +81,19 @@ This project demonstrates a complete workflow for commercial sales analysis:
 - ✅ Visualizing insights using Python  
 
 ---
----
 
-**🎯 Task 2**
-# 🧠 Social Media Sentiment Analysis  
+#**🎯 Task 2**
+
+# 🌐 Social Media Sentiment Analysis  
 
 ## 📌 Project Overview  
 This project aims to analyze public sentiment on Twitter using **Natural Language Processing (NLP)**. The objective is to determine whether a tweet expresses a **positive** or **negative** sentiment using machine learning techniques.
 
----
 
 ## 📁 Dataset  
 **Name**: Sentiment140  
 **Source**: [Kaggle - Sentiment140 Dataset] 
 **Description**: Contains 1.6 million labeled tweets with sentiment (0 = negative, 4 = positive).
-
----
 
 ## 🛠️ Technologies & Tools
 - Python  
@@ -113,7 +104,6 @@ This project aims to analyze public sentiment on Twitter using **Natural Languag
 - TF-IDF Vectorizer  
 - Pickle (for model saving)
 
----
 
 ## ⚙️ Steps Performed
 1. **Data Preprocessing**  
@@ -138,13 +128,14 @@ This project aims to analyze public sentiment on Twitter using **Natural Languag
 5. **Model Deployment (Optional)**  
    - Pickle used to save and load the trained model
 
----
+## 📈 Sample Output  
+| Tweet | Predicted Sentiment |
+|-------|---------------------|
+| "I love this product!" | 😊 Positive |
+| "Worst experience ever." | 😠 Negative |
+
 
 ## 📊 Visualizations
 - Bar charts for sentiment distribution  
 - WordCloud (optional)  
 - Accuracy & confusion matrix plots
-  
----
-
-
